@@ -243,3 +243,4 @@ function noData(weatherInfo) {
 // data hiding
 // loader
 // geolocation to get own latitude and longitude
+// api removed
