@@ -1,5 +1,4 @@
 /*
-const API_KEY = "85e4aa67f8a0b2ed00b67045418b38be";
 function renderWeatherInfo(data) {
   let newPara = document.createElement("p");
   newPara.textContent = `${data?.main?.temp.toFixed(2)} °C`;
